@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on MADE WIGUNA</title>
+    <link>https://www.petanikode.com/tags/hugo/</link>
+    <description>Recent content in hugo on MADE WIGUNA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 01 Oct 2021 10:22:48 +0000</lastBuildDate><atom:link href="https://www.petanikode.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Membuat Blog Di Hugo</title>
+      <link>https://www.petanikode.com/post/cara-membuat-blog-di-hugo/</link>
+      <pubDate>Fri, 01 Oct 2021 10:22:48 +0000</pubDate>
+      
+      <guid>https://www.petanikode.com/post/cara-membuat-blog-di-hugo/</guid>
+      <description>Sebelumnya sudah saya buat persiapan ngeblog di hugo sekarang akan saya buatkan tutorial cara membuat blog di hugo lengkap dengan cara membuat artikelnya
+Membuat blog dengan Hugo Pertama, buatlah blog dengan hugo seperti contoh berikut ini.
+hugo new site namablog Kedua, masuk ke direktori namablog.
+cd namablog Selanjutnya, unduh tema dan pasang ke blog kalian.
+Temanya bisa kalian unduh dari Hugo Themes.
+Baca dulu dokumentasi temanya karena di sana ada konfigurasi yang harus diikuti supaya tema bisa digunakan.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on MADE WIGUNA</title>
+    <link>https://www.petanikode.com/post/</link>
+    <description>Recent content in Post on MADE WIGUNA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 08 Oct 2021 11:10:08 +0000</lastBuildDate><atom:link href="https://www.petanikode.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>panduan menulis mengunakan markdowns</title>
+      <link>https://www.petanikode.com/post/penulisan-markdown/</link>
+      <pubDate>Fri, 01 Oct 2021 10:46:30 +0000</pubDate>
+      
+      <guid>https://www.petanikode.com/post/penulisan-markdown/</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({});  Bagi yang sering bermain di Github dan web serupa, pasti sering melihat markdown. Biasanya markdown digunakan untuk menuliskan dokumentasi.
+Pada dasarnya markdown sama seperti HTML. Namun, lebih sederhana dan mudah dibaca.
+Saat ini markdown sudah digunakan untuk:
+  Dokumentasi;
+  SSG (Static Site Generator);
+  CMS seperti Ghost, Wordpress, Tumblr, dll.;
+  Penulisan Buku;
+  Format teks pada chat: Telegram, WA, Facebook;</description>
+    </item>
+    
+    <item>
+      <title>Cara Membuat Blog Di Hugo</title>
+      <link>https://www.petanikode.com/post/cara-membuat-blog-di-hugo/</link>
+      <pubDate>Fri, 01 Oct 2021 10:22:48 +0000</pubDate>
+      
+      <guid>https://www.petanikode.com/post/cara-membuat-blog-di-hugo/</guid>
+      <description>Sebelumnya sudah saya buat persiapan ngeblog di hugo sekarang akan saya buatkan tutorial cara membuat blog di hugo lengkap dengan cara membuat artikelnya
+Membuat blog dengan Hugo Pertama, buatlah blog dengan hugo seperti contoh berikut ini.
+hugo new site namablog Kedua, masuk ke direktori namablog.
+cd namablog Selanjutnya, unduh tema dan pasang ke blog kalian.
+Temanya bisa kalian unduh dari Hugo Themes.
+Baca dulu dokumentasi temanya karena di sana ada konfigurasi yang harus diikuti supaya tema bisa digunakan.</description>
+    </item>
+    
+  </channel>
+</rss>
