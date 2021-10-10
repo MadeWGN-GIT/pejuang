@@ -1,0 +1,25 @@
+title = "MADE WIGUNA"
+baseurl = "https://www.petanikode.com/"
+
+# Agar front-matter pakai format YAML
+MetaDataFormat = "yaml"
+
+# untuk apply temanya
+themesDir = "themes"
+theme = "temaku"
+
+# Shortname disqus, silahkan sesuaikan
+DisqusShortname = "madekun"
+
+# Untuk Google Analytic, silahkan sesuikan
+googleAnalytics = "UA-80517197-1" 
+
+# Untuk deskripsi tag meta di homepage
+description = "Blog Programmer pengguna Linux"
+
+# Biodata Author
+[author]
+    name = "Made Wiguna"
+    homepage = "https:t.me/madewgn/"
+    bio = "Pengamat Langit"
+    image = "https://telegra.ph/file/3a7fbe5e09b173a369511.jpg"
